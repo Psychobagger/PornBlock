@@ -2,7 +2,7 @@
 
 One file, drag and drop on your computer, that blocks most every porn site in existence.
 
-Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Project. This project is a fork of that project, dedicated to blocking porn only.
+Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Project. This project is a fork of that project, dedicated to blocking porn only. I also recommend checking out ![this blocklist](https://github.com/CHEF-KOCH/NSABlocklist) for blocking IPs identified as potentially privacy-violating by Edward Snowden
 
 # Instructions
 
