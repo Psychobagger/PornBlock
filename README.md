@@ -7,7 +7,7 @@ Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Pr
 # Instructions
 Works best on a computer where the user is not technically-competent, and is unable to locate and modify a hosts file (children especially). May work well as a "last-resort" option for one who seeks to drop the habit of porn consumption.
 
-Uses empty IP addresses in a file called "hosts", which the system references when connecting to any website. Any IP address mapped to the IP 0.0.0.0 (either incoming or outgoing) is denied access. This can be performed on any IP address, effectively barring it access, in or out, of a computer.
+Uses empty IP addresses in a file called "hosts", which the system references when it gets an IP request. Any IP address mapped to the IP 0.0.0.0 (either incoming or outgoing) is denied access. This can be performed on any IP address, effectively barring it access, in or out, of a computer.
 
 # Background
 I sought to block porn sites on my computer, and share it with family and friends. I worked on this project on my own before finding the Block List project; so I incorporated my porn list into their block list. Their block list is massive (over 1.8 million blocked sites, though I am unsure if there are redundancies with domains/sub-domains both being listed) while mine is small, at only about 5k sites. Unfortunately, hosts files cannot be read with regexes, so for the simplest "brute-force" solution to sneakily blocking porn on a computer, this works.
