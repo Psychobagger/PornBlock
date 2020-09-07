@@ -1,6 +1,10 @@
+# Info
+
 One file, drag and drop on your computer, that blocks most every porn site in existence.
 
 Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Project.
+
+# Instructions
 
 # Background
 I sought to block porn sites on my computer, and share it with family and friends. I worked on this project on my own before finding the Block List project; so I incorporated my porn list into their block list.
