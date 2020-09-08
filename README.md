@@ -69,10 +69,56 @@ Here is the tblop site. This format is redundant across many, many other sites.
 * besttrannypornsites.com
 * weknowporn.com
 * bigpornlist.com
-*
-*
-*
-*
-*
-*
-*
+* japanesesites.porn
+* best-adultsites.com
+* bestpornamateur.com
+* pornoracle.com
+* 69pornlist.com
+* bigpornlist.net
+* nudesquad.com
+* maturepornsites.net
+* bestmilfsites.com
+* mypornfox.com
+* primepornlist.com
+* thesafeporn.com
+* thebestfetishsites.com
+* theporndude.com
+* allpornsites.net
+* bestpornsites.net
+* best10.net
+* exxxtra.net
+* mygaysites.com
+* lesbiansites.porn
+* hdpornlist.com
+* sexhq.com
+* sharkyporn.com
+* hotporn.today
+* toppornsites.porn
+* toppornguide.com
+* toppornsites.co.uk
+* pornplanner.com
+* sexpornlist.net
+* fivestarpornsites.com
+* pornaddik.com
+* bestcamsites.net
+* besthardcorepornsites.com
+* tbpsl.com
+* hotpornbible.com
+* toplist18.com
+* lustylist.com
+* thesafeporn.net
+* cumshotlist.com
+* area51.to
+* britpornsites.com
+* topamateurpornsites.com
+* aulaporn.com
+* taboopornsites.com
+* zweiporn.com
+* freesafeporn.com
+* epikporn.top
+* pornfinger.com
+* best4kpornsites.com
+* bioporno.com
+* duckgay.com
+* deutsche-pornoseiten.com
+* bestvirtualpornsites
