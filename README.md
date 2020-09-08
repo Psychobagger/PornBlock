@@ -22,4 +22,5 @@ Much of the work finding new sites to scrape was simply typing in "top porn site
 https://www.reddit.com/user/gregfromtblop
 https://pastebin.com/u/tblop
 
+Here is the tblop site. This format is redundant across many, many other sites.
 ![](https://github.com/Psychobagger/PornBlock/blob/master/images/tblop.PNG)
