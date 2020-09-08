@@ -18,7 +18,7 @@ Uses empty IP addresses in a file called "hosts", which the system references wh
 # Background
 I sought to block porn sites on my computer, and share it with family and friends. I worked on this project on my own before finding the Block List project; so I incorporated my porn list into their block list. Their block list is massive (over 1.8 million blocked sites, though I am unsure if there are redundancies with domains/sub-domains both being listed) while mine is small, at only about 5k sites. Unfortunately, hosts files cannot be read with regexes, so for the simplest "brute-force" solution to sneakily blocking porn on a computer, this works.
 
-I found the site tblop.com initially, through the Google search "top porn sites". I searched for similar sites and was intrigued when I found several dozen sites with the exact same HTML layout as tblop (down to class names and indentation structure). Tblop is run by someone named Greg, and it is probable that every other site I found and scraped for links is run by Greg, or someone affiliated with him. 
+I found the site tblop.com initially, through the Google search "top porn sites". I searched for similar sites and was intrigued when I found several dozen sites with the exact same HTML layout as tblop (down to class names and indentation structure). Tblop is run by someone named Greg, and it is probable that every other site I found and scraped for links is run by Greg, or someone affiliated with him.
 
 Much of the work finding new sites to scrape was simply typing in "top porn sites", or related search terms. I also followed Greg's social media (he has a ton listed on tblop) and found a lot more links therein.
 
