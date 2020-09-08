@@ -11,6 +11,7 @@ Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Pr
 Works best on a computer where the user is not technically-competent, and is unable to locate and modify a hosts file (children especially). May work well as a "last-resort" option for one who seeks to drop the habit of porn consumption.
 
 * For Windows computers, simply download and place the file, hosts, into C:\Windows\System32\drivers\etc; if the file already exists, it is okay to overwrite it, as there is nothing except comments in there by default.
+* From an admininstrator account (if you are a parent), right click the hosts file, select Properties and mark the check-box to make it read-only. This way, it cannot be edited except by an administrator.
 
 Uses empty IP addresses in a file called "hosts", which the system references when it gets an IP request. Any IP address mapped to the IP 0.0.0.0 (either incoming or outgoing) is denied access. This can be performed on any IP address, effectively barring it access, in or out, of a computer.
 
