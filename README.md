@@ -24,3 +24,55 @@ https://pastebin.com/u/tblop
 
 Here is the tblop site. This format is redundant across many, many other sites.
 ![](https://github.com/Psychobagger/PornBlock/blob/master/images/tblop.PNG)
+
+# Sites Crawled
+* tblop.com
+* toppornsites.com
+* bestxxxsites.com
+* pornabc.com
+* iwantporn.net
+* pornwhitelist.com
+* bestanalpornsites.com
+* pornsites.xxx
+* tubepornlist.com
+* mature-porn-list.com
+* toppornsites.net
+* sexpornlist.com
+* bestlistofporn.com
+* thesexlist.com
+* myasiansites.com
+* worldpornlist.com
+* pornmate.com
+* bestyoungpornsites.com
+* teenpornsites.org
+* bestpornsites.guide
+* mypornbible.com
+* goodpornsites.com
+* mrporngeek.com
+* bbwpornsites.org
+* listofporn.com
+* topblackpornsites.com
+* porndabster.com
+* bestpornsites.porn
+* bestgaypornsites.com
+* myporngay.com
+* judeporn.com
+* bigcamlist.com
+* shemalepornsites.net
+* bestlatinapornsites.com
+* faptogayporn.net
+* mypornbookmarks.com
+* myporndir.net
+* xpornolist.com
+* iwantporn.net_gay
+* indianpornlist.com
+* besttrannypornsites.com
+* weknowporn.com
+* bigpornlist.com
+*
+*
+*
+*
+*
+*
+*
