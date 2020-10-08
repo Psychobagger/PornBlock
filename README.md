@@ -7,7 +7,7 @@ Go ![here](https://github.com/blocklistproject/Lists) for the full Block List Pr
 # Instructions
 Works best on a computer where the user is not technically-competent, and is unable to locate and modify a hosts file (children especially). May work well as a "last-resort" option for one who seeks to drop the habit of porn consumption.
 
-* For Windows computers, simply download and place the file, **hosts.txt** (full file ![here](https://anonfiles.com/zfu2y7dcp1/hosts_txt), into **C:\Windows\System32\drivers\etc**; if the file already exists, it is okay to overwrite it, as there is nothing except comments in there by default.
+* For Windows computers, simply download and place the file, **hosts.txt** (full file in next section), into **C:\Windows\System32\drivers\etc**; if the file already exists, it is okay to overwrite it, as there is nothing except comments in there by default.
 * From an admininstrator account (if you are a parent), right click the hosts file, select Properties and mark the check-box to make it read-only. This way, it cannot be edited except by an administrator (no smart kids editing it).
 
 Uses empty IP addresses in a file called "hosts", which the system references when it gets an IP request. Any IP address mapped to the IP 0.0.0.0 (either incoming or outgoing) is denied access. This can be performed on any IP address, effectively barring it access, in or out, of a computer.
@@ -17,7 +17,7 @@ I used Java hashsets all over the place. It made managing redundancies a breeze.
 
 I experimented with my hosts file, and I found that blocking pr0nhub.com was insufficient, because I was able to type in www.pr0nhub.com and access the site. Verify this yourself, it's accurate, at least on Windows 10. So for a "full block", I duplicated each URL and prepended it with www., so that every URL shows up twice, once without www. and once with it. Github LFS will not let me upload the full file, since this is a public fork. So, if you want it, get the code working in Eclipse or whatever you use, making sure to add the jsoup library to your classpath, then run Main.java and get the hosts.txt.
 
-Or, go to this ![anonfile link](https://anonfiles.com/zfu2y7dcp1/hosts_txt) and download it. I just found this site as a free file hosting plaform, up to 20GB. I wish I had known about it forever ago.
+Or, go to ![https://anonfiles.com/zfu2y7dcp1/hosts_txt](https://anonfiles.com/zfu2y7dcp1/hosts_txt) and download it. I just found this site as a free file hosting plaform, up to 20GB. I wish I had known about it forever ago.
 
 # Background
 I sought to block porn sites on my computer, and share it with family and friends. I worked on this project on my own before finding the Block List project; so I incorporated my porn list into their block list. Their block list is massive (over 1.9 million blocked sites, though I am unsure if there are redundancies with domains/sub-domains both being listed) while mine is small, at only a few thousand sites. Many of the 1.9mil blocked sites seem obscure; the sites I have gathered are not so. Unfortunately, hosts files cannot be read with regexes: so for the simplest "brute-force" solution to sneakily blocking *most* porn on a computer, this works.
