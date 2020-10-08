@@ -124,4 +124,6 @@ Here is the tblop site. This format is redundant across many, many other sites.
 * bioporno.com
 * duckgay.com
 * deutsche-pornoseiten.com
-* bestvirtualpornsites
+* bestvirtualpornsites.com
+* iwantporn.org
+* iwantbestporn.com
