@@ -15,6 +15,8 @@ Uses empty IP addresses in a file called "hosts", which the system references wh
 # Technical Stuff
 I used Java hashsets all over the place. It made managing redundancies a breeze.
 
+I saved each of the sites to crawl instead of accessing them remotely, because the speed is increased exponentially, and also because there is a worry of the sites going down.
+
 I experimented with my hosts file, and I found that blocking pr0nhub.com was insufficient, because I was able to type in www.pr0nhub.com and access the site. Verify this yourself, it's accurate, at least on Windows 10. So for a "full block", I duplicated each URL and prepended it with www., so that every URL shows up twice, once without www. and once with it. Github LFS will not let me upload the full file, since this is a public fork. So, if you want it, get the code working in Eclipse or whatever you use, making sure to add the jsoup library to your classpath, then run Main.java and get the hosts.txt.
 
 Or, go to ![https://anonfiles.com/zfu2y7dcp1/hosts_txt](https://anonfiles.com/zfu2y7dcp1/hosts_txt) and download it. Github may block that link, sorry. I just found this site as a free file hosting plaform, up to 20GB. I wish I had known about it forever ago.
