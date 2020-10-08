@@ -10,9 +10,9 @@ Works best on a computer where the user is not technically-competent, and is una
 * For Windows computers, simply download and place the file, **hosts.txt** (full file in next section), into **C:\Windows\System32\drivers\etc**; if the file already exists, it is okay to overwrite it, as there is nothing except comments in there by default.
 * From an admininstrator account (if you are a parent), right click the hosts file, select Properties and mark the check-box to make it read-only. This way, it cannot be edited except by an administrator (no smart kids editing it).
 
+# Technical Stuff
 Uses empty IP addresses in a file called "hosts", which the system references when it gets an IP request. Any IP address mapped to the IP 0.0.0.0 (either incoming or outgoing) is denied access. This can be performed on any IP address, effectively barring it access, in or out, of a computer.
 
-# Technical Stuff
 I used Java hashsets all over the place. It made managing redundancies a breeze.
 
 I saved each of the sites to crawl instead of accessing them remotely, because the speed is increased exponentially, and also because there is a worry of the sites going down.
